@@ -20,7 +20,7 @@
 ## 下载安装
 
 ```sh
-wget -O kubeadm https://raw.githubusercontent.com/yezihack/k8s-example/kubeadm/kubeadm-1.20.15-linux-$(uname -m)
+wget -O kubeadm https://raw.githubusercontent.com/yezihack/k8s-example/main/kubeadm/kubeadm-1.20.15-linux-$(uname -m)
 
 cp kubeadm /usr/bin/kubeadm
 
