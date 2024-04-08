@@ -1,6 +1,10 @@
 # k8s-example
-Kubernetes Example Code for Reference. Please give it a star if you like it.
 
+## 列表
+
+| 名称 | 功能| 位置|
+| ---|----| ----|
+| 重制kubeadm | 证书有效期为99年| [进入](./kubeadm/)|
 
 ## Star History
 
